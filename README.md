@@ -1,8 +1,5 @@
-# Zaluea
-This is an official proxy of [Zaluea Network](https://discord.gg/8SDaUugBqu).
-
-## Games
-So far there is only one game. More will be added soon.
+# Krypton
+This is a proxy for school chromebooks
 
 ## Credits
-Zaluea uses [Ultraviolet](https://github.com/titaniumnetwork-dev/Ultraviolet)
+Forked project, uses [Ultraviolet](https://github.com/titaniumnetwork-dev/Ultraviolet)
